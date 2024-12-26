@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=oXlwWbU8l2o
+
+
+face detecting xml files
+
+https://github.com/opencv/opencv/tree/master/data
